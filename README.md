@@ -7,8 +7,5 @@
 DLL npm run dll  webpack4中不推荐使用dll效果不明显
 
 打包 npm run build
-<<<<<<< HEAD
-=======
 
-commit1
->>>>>>> cd68226... Revert "提交2"
+1
